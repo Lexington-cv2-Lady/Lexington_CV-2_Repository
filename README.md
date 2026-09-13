@@ -1,4 +1,4 @@
-# XIVCN-PluginRepo
+# Lexington_CV-2_Repository
 
 Lexington 的卫月（Dalamud）插件清单库。**添加本库地址后，插件列表自动出现以下全部插件；以后新增插件也会自动出现，无需再改配置。**
 
@@ -14,12 +14,12 @@ Lexington 的卫月（Dalamud）插件清单库。**添加本库地址后，插�
 
 **主地址**
 ```
-https://raw.githubusercontent.com/Lexington-cv2-Lady/XIVCN-PluginRepo/main/plugin_repo.json
+https://raw.githubusercontent.com/Lexington-cv2-Lady/Lexington_CV-2_Repository/main/plugin_repo.json
 ```
 
 **镜像**（主地址加载慢时用）
 ```
-https://cdn.jsdmirror.com/gh/Lexington-cv2-Lady/XIVCN-PluginRepo@main/plugin_repo.json
+https://cdn.jsdmirror.com/gh/Lexington-cv2-Lady/Lexington_CV-2_Repository@main/plugin_repo.json
 ```
 
 然后在插件安装器中搜索插件名安装。
