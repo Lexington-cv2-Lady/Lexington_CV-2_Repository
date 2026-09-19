@@ -1,39 +1,75 @@
 [
-  {
-    "Author": "Lexington-cv2-Lady",
-    "Name": "FFXIV_penumbra的模组汉化插件",
-    "InternalName": "FFXIV_Penumbra_Mod_Chinese_Localization_Plugin",
-    "AssemblyVersion": "1.1.5.0",
-    "Description": "读取 Penumbra 模组的选项与描述，用本地词典与 AI 批量汉化为简体中文，写回 meta.json / group_*.json 后自动触发 Penumbra 重载，游戏内即时生效。纯本地翻译，无遥测。\n汉化前自动备份（zip 按份数轮转），可一键还原且保留 Penumbra 的选项状态；支持 Penumbra 新旧双格式、纯中文输出、黑名单保留英文专名。\n词典来源：我的翻译 / 个性翻译 / wiki 术语对照 / AI 知识库 / 单词黑名单；AI 翻译内置多家国内主流服务商（按平台自动拆批），也支持导出后交给外部 AI 翻译再汇总。\n可将 Penumbra 模组的英文选项一键中文化，适合追求中文界面的玩家。",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 15,
-    "IconUrl": "https://cdn.jsdmirror.com/https://raw.githubusercontent.com/Lexington-cv2-Lady/FFXIV_Penumbra_Mod_Chinese_Localization_Plugin/main/Data/icon.png",
-    "Punchline": "把 Penumbra 模组的英文选项与描述批量汉化为简体中文并写回，游戏内即时生效。",
-    "RepoUrl": "https://github.com/Lexington-cv2-Lady/FFXIV_Penumbra_Mod_Chinese_Localization_Plugin",
-    "Tags": [
-      "汉化",
-      "翻译",
-      "模组",
-      "penumbra",
-      "ffxiv",
-      "chinese",
-      "localization",
-      "中文"
-    ],
-    "CategoryTags": [
-      "utility"
-    ],
-    "DownloadLinkInstall": "https://cdn.jsdmirror.com/https://github.com/Lexington-cv2-Lady/FFXIV_Penumbra_Mod_Chinese_Localization_Plugin/releases/download/v1.1.5/FFXIV_Penumbra_Mod_Chinese_Localization_V1.1.5.zip",
-    "DownloadLinkTesting": "https://cdn.jsdmirror.com/https://github.com/Lexington-cv2-Lady/FFXIV_Penumbra_Mod_Chinese_Localization_Plugin/releases/download/v1.1.5/FFXIV_Penumbra_Mod_Chinese_Localization_V1.1.5.zip",
-    "DownloadLinkUpdate": "https://cdn.jsdmirror.com/https://github.com/Lexington-cv2-Lady/FFXIV_Penumbra_Mod_Chinese_Localization_Plugin/releases/download/v1.1.5/FFXIV_Penumbra_Mod_Chinese_Localization_V1.1.5.zip",
-    "LastUpdated": "2026-09-19T20:30:00+08:00",
-    "DownloadCount": 0,
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "LoadPriority": 0,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "AcceptsFeedback": true
-  }
+    {
+        "Author":  "Lexington-cv2-Lady",
+        "Name":  "FFXIV_penumbra的模组汉化插件",
+        "InternalName":  "FFXIV_Penumbra_Mod_Chinese_Localization_Plugin",
+        "AssemblyVersion":  "1.1.5.0",
+        "Description":  "读取 Penumbra 模组的选项与描述，用本地词典与 AI 批量汉化为简体中文，写回 meta.json / group_*.json 后自动触发 Penumbra 重载，游戏内即时生效。纯本地翻译，无遥测。\n汉化前自动备份（zip 按份数轮转），可一键还原且保留 Penumbra 的选项状态；支持 Penumbra 新旧双格式、纯中文输出、黑名单保留英文专名。\n词典来源：我的翻译 / 个性翻译 / wiki 术语对照 / AI 知识库 / 单词黑名单；AI 翻译内置多家国内主流服务商（按平台自动拆批），也支持导出后交给外部 AI 翻译再汇总。\n可将 Penumbra 模组的英文选项一键中文化，适合追求中文界面的玩家。",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  15,
+        "IconUrl":  "https://cdn.jsdmirror.com/https://raw.githubusercontent.com/Lexington-cv2-Lady/FFXIV_Penumbra_Mod_Chinese_Localization_Plugin/main/Data/icon.png",
+        "Punchline":  "把 Penumbra 模组的英文选项与描述批量汉化为简体中文并写回，游戏内即时生效。",
+        "RepoUrl":  "https://github.com/Lexington-cv2-Lady/FFXIV_Penumbra_Mod_Chinese_Localization_Plugin",
+        "Tags":  [
+                     "汉化",
+                     "翻译",
+                     "模组",
+                     "penumbra",
+                     "ffxiv",
+                     "chinese",
+                     "localization",
+                     "中文"
+                 ],
+        "CategoryTags":  [
+                             "utility"
+                         ],
+        "DownloadLinkInstall":  "https://cdn.jsdmirror.com/https://github.com/Lexington-cv2-Lady/FFXIV_Penumbra_Mod_Chinese_Localization_Plugin/releases/download/v1.1.5/FFXIV_Penumbra_Mod_Chinese_Localization_V1.1.5.zip",
+        "DownloadLinkTesting":  "https://cdn.jsdmirror.com/https://github.com/Lexington-cv2-Lady/FFXIV_Penumbra_Mod_Chinese_Localization_Plugin/releases/download/v1.1.5/FFXIV_Penumbra_Mod_Chinese_Localization_V1.1.5.zip",
+        "DownloadLinkUpdate":  "https://cdn.jsdmirror.com/https://github.com/Lexington-cv2-Lady/FFXIV_Penumbra_Mod_Chinese_Localization_Plugin/releases/download/v1.1.5/FFXIV_Penumbra_Mod_Chinese_Localization_V1.1.5.zip",
+        "LastUpdated":  "2026-09-19T20:30:00+08:00",
+        "DownloadCount":  0,
+        "IsHide":  false,
+        "IsTestingExclusive":  false,
+        "LoadPriority":  0,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "AcceptsFeedback":  true
+    },
+    {
+        "Author":  "Lexington-cv2-Lady",
+        "Name":  "翻译插件的插件",
+        "InternalName":  "FFXIV_Plugin_Localizer",
+        "AssemblyVersion":  "1.0.0.0",
+        "Description":  "给其他 Dalamud 插件的界面做运行时汉化：在 ImGui 文字绘制层把插件渲染的英文按对照表换成中文显示，不改对方插件文件。含源码提取候选、AI 机翻（多服务商）、词典管理与单词黑名单、后台自动翻译与运行时自动补译。",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  15,
+        "IconUrl":  "https://cdn.jsdmirror.com/https://raw.githubusercontent.com/Lexington-cv2-Lady/FFXIV_Plugin_Localizer/main/Data/icon.png",
+        "Punchline":  "运行时把其他 Dalamud 插件的英文界面文字替换为简体中文。",
+        "RepoUrl":  "https://github.com/Lexington-cv2-Lady/FFXIV_Plugin_Localizer",
+        "Tags":  [
+                     "汉化",
+                     "翻译",
+                     "ui",
+                     "chinese",
+                     "localization",
+                     "中文",
+                     "dalamud"
+                 ],
+        "CategoryTags":  [
+                             "utility"
+                         ],
+        "DownloadLinkInstall":  "https://cdn.jsdmirror.com/https://github.com/Lexington-cv2-Lady/FFXIV_Plugin_Localizer/releases/download/v1.0.0/FFXIV_Plugin_Localizer_v1.0.0.zip",
+        "DownloadLinkTesting":  "https://cdn.jsdmirror.com/https://github.com/Lexington-cv2-Lady/FFXIV_Plugin_Localizer/releases/download/v1.0.0/FFXIV_Plugin_Localizer_v1.0.0.zip",
+        "DownloadLinkUpdate":  "https://cdn.jsdmirror.com/https://github.com/Lexington-cv2-Lady/FFXIV_Plugin_Localizer/releases/download/v1.0.0/FFXIV_Plugin_Localizer_v1.0.0.zip",
+        "LastUpdated":  "2026-09-20T10:00:00+08:00",
+        "DownloadCount":  0,
+        "IsHide":  false,
+        "IsTestingExclusive":  false,
+        "LoadPriority":  0,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "AcceptsFeedback":  true
+    }
 ]
