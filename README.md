@@ -7,6 +7,7 @@ Lexington 的卫月（Dalamud）插件清单库。**添加本库地址后，插�
 | 插件 | 说明 |
 |---|---|
 | [FFXIV_penumbra的模组汉化插件](https://github.com/Lexington-cv2-Lady/FFXIV_Penumbra_Mod_Chinese_Localization_Plugin) | 把 Penumbra 模组的英文选项与描述批量汉化为简体中文并写回，游戏内即时生效 |
+| [翻译插件的插件](https://github.com/Lexington-cv2-Lady/FFXIV_Plugin_Localizer) | Plugin Translator for Plugins：运行时把其他 Dalamud 插件的英文界面文字替换为简体中文 |
 
 ## 添加方式
 
